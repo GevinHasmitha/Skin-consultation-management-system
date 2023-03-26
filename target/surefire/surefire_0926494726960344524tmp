@@ -1,0 +1,8 @@
+#surefire_0
+#Sun Jan 01 20:32:13 IST 2023
+maven.ext.class.path=C\:\\Program Files\\NetBeans-15\\netbeans\\java\\maven-nblib\\netbeans-eventspy.jar
+file.encoding=UTF-8
+test=com.mycompany.javacw.WestminsterSkinConsultationManagerTest
+basedir=C\:\\Users\\Gevin-pc\\Documents\\NetBeansProjects\\JavaCWGUI9(datetime)
+user.dir=C\:\\Users\\Gevin-pc\\Documents\\NetBeansProjects\\JavaCWGUI9(datetime)
+localRepository=C\:\\Users\\Gevin-pc\\.m2\\repository
